@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Schnitzel541
+- 👀 I’m interested in music, programming and gaming!
+- 🌱 I’m currently learning web development
